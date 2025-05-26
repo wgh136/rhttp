@@ -1,3 +1,14 @@
+## 0.12.0
+
+- fix: Flutter 3.32 compatibility @MSOB7YY (#74)
+- deps: bump `flutter_rust_bridge` to `2.10.0`
+
+## 0.11.1
+
+- feat: add basic Cookie handling @FrankenApps (#67)
+- feat: automatically install the pinned Rust version @linsui (#68)
+- deps: loosen `freezed_annotation` constraint to `>=2.4.4 <4.0.0`
+
 ## 0.11.0
 
 - feat: `HttpMethod` accepts any string as method name @wgh136 (#57)
